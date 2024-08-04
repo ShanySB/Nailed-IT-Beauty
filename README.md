@@ -71,6 +71,9 @@ The website targets new and old customers of all ages, as well as groups; showca
 
 ### Color Scheme
 
-![Color scheme image](https://coolors.co/ffe5ec-ffc2d1-ffb3c6-ff8fab-fb6f92)
+![Color scheme image](.assets/images/img)
 
 * The colors used on this site are different shades of pink to represent the femininity of the services being provided.
+
+### Typography
+
