@@ -42,12 +42,35 @@ The website targets new and old customers of all ages, as well as groups; showca
 
 ### Project Goals
 
-* The website should be vibrant and eye catching but Suttle.  
+* The website should be vibrant and eye catching but not overwhelming.  
 
-* It should have bright colors that mesh well together to make it visually 
-  appealing to customers. 
+* The website should have vibrant colors that mesh well together to make it visually appealing to customers. 
 
-* The website should provide customers with information about all services 
-  and treatments provided. 
+* The website should provide customers with information about all services, 
+  treatments and therapists available. 
 
 * The website should make it easy for customers to book appointments if they   live within the radius of where the therapist is located. 
+
+* The website should entice customers to want to come back and let their firends and family know about it.
+
+### User Stories
+
+* As a customer I want to be able to find out what services are available.
+
+* As a customer I want to be able to find out the prices of all services     advertised.
+
+* As a customer I want to be able to navigate the website with ease.
+
+* As a customer I want to be informed of any special offeres available.
+
+* As a customer I want to be able to locate any social media links easily.
+
+* As a customer I want to know if there are any therapists in my area.
+
+* As a customer I want to be able to make a booking with ease.
+
+### Color Scheme
+
+![Color scheme image](https://coolors.co/ffe5ec-ffc2d1-ffb3c6-ff8fab-fb6f92)
+
+* The colors used on this site are different shades of pink to represent the femininity of the services being provided.
